@@ -4,6 +4,6 @@ Pour afficher la conbsole git
 3- Créer un dépot avec la commande « git init »
 4- Dans l'explorateur pour voir le dossier .git, qu'on appelle le « dépot » il faut selectionner «affichage/élément masqué» pour voir «.git»
 Si la commande git n'est pas reconnu il faut installer git
-Chercher «git download » dans google pour trouver: https://github.com/PipedreamHQ/pipedream/tree/master/components/github?gclid=EAIaIQobChMIn9fH3cfJ-wIVQ4dbCh0W3gNREAAYASAAEgIYAfD_BwE#github-api-integration-platform vous télécharger la version windows 64 bit
+Chercher «git download » dans google pour trouver: https://git-scm.com/download/win vous télécharger la version windows 64 bit
 vous lancer l'instalateur qui se trouve dans le dossier téléchargement.
 Fermer visual code pour le relancer ce qui permettre à visual code d'accepter git
