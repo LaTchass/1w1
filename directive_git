@@ -1,4 +1,4 @@
-Pour afficher la conbsole git
+Pour afficher la console git
 1- Sélectionne le dossier principale de votre TP avec «touche droit souris»
 2- Sélectionne «ouvrir dans le terminal intégré»
 3- Créer un dépot avec la commande « git init »
@@ -6,4 +6,14 @@ Pour afficher la conbsole git
 Si la commande git n'est pas reconnu il faut installer git
 Chercher «git download » dans google pour trouver: https://git-scm.com/download/win vous télécharger la version windows 64 bit
 vous lancer l'instalateur qui se trouve dans le dossier téléchargement.
-Fermer visual code pour le relancer ce qui permettre à visual code d'accepter git
+Fermer visual code pour le relancer ce qui permettre à visual code d'accepter git pour voir l'état de votre version
+« git status » 
+si les fichier aparaissent en rouge: il faut les indexer
+« git add --all » 
+En de nouveau git status vous constaterez que les fichier sont vert
+Une fois que tous les fichiers modifié passent au vert on
+peut faire un commit
+« git commit -m "s13 Début du tp2"
+Pour créer un compte "git hub":
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
